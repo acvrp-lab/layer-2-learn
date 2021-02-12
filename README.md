@@ -4,4 +4,8 @@ i was not very fond of defi until recent GameStop incident, cefi looks really ho
 
 ethereum now is slow and expensive, seeing no end. 2.0 may still be years ahead.
 
-so how is layer2 solutions going, tvl, active users, etc.
+so how is layer2 solutions going, tvl, active users, performance, features, how they work, etc.
+
+### matic
+
+### loopring
