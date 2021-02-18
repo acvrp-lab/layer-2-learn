@@ -9,3 +9,9 @@ so how is layer2 solutions going, tvl, active users, performance, features, how 
 ### matic
 
 ### loopring
+
+### zkswap
+took a peek, i will not use it personally
+
+1. cant find public source code, implementation contract not verified
+2. no timelock, too much power to the dev
