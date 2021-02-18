@@ -14,4 +14,4 @@ so how is layer2 solutions going, tvl, active users, performance, features, how 
 took a peek, i will not use it personally
 
 1. cant find public source code, implementation contract not verified
-2. no timelock, too much power to the dev
+2. too much power to the dev. contract owner is an un-verified contract, maybe it is a timelock, but we cant see
